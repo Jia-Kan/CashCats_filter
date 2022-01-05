@@ -19,7 +19,7 @@ About settings in criteria.json:
 "interested_xxx": specify target traits to 1 to search it. it only take effect when the corresponding "chk_xxx" is 1.
 
 
-Useful Info:
+Tips:
 1.  Check rarity at https://oasis.cash/assets/cats/rarity.html.
 2.  You can check any CashCat #ID at https://oasis.cash/token/0xE765026Cad648785b080E78700cBF6fa1C050d7C/#ID. for example, for CashCats #1234, check it at https://oasis.cash/token/0xE765026Cad648785b080E78700cBF6fa1C050d7C/1234
 3.  In the default criteria.json, all traits that with Weight <= 50 is set to 1.
