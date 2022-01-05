@@ -1,0 +1,96 @@
+
+{
+    "search_range":              [0,10000]
+    ,"alltraits":                1
+    ,"chk_Background":           0
+    ,"chk_Body":                 1
+    ,"chk_Eyes":                 1
+    ,"chk_Mouth":                1
+    ,"chk_Collar":               1
+    ,"chk_Accessory":            1
+    ,"chk_OG":                   0
+
+    ,"interested_Background":   {
+                                     "Red":                 0
+                                    ,"Purple":              0
+                                    ,"Green":               0
+                                    ,"Yellow":              0
+                                    ,"Blue":                0
+                                    ,"Red / Orange":        1
+                                    ,"Purple / Blue":       1
+                                    ,"Purple / Green":      1
+                                    ,"Blue / Green":        1
+                                    ,"Yellow / Green":      1
+                                }
+    ,"interested_Body":         {
+                                     "White":               0
+                                    ,"Brown":               0
+                                    ,"Yellow":              0
+                                    ,"Pink":                0
+                                    ,"Red":                 1
+                                    ,"White Striped":       1
+                                    ,"White Spotted":       1
+                                    ,"Diamond":             1
+                                    ,"Ruby":                1
+                                    ,"Emerald":             1
+                                }
+    ,"interested_Eyes":         {
+                                     "Monocle":             1
+                                    ,"Long Eyes":           1
+                                    ,"Cash":                0
+                                    ,"Bitcoin":             0
+                                    ,"Uplifted Eyes":       0
+                                    ,"Resting Eyes":        0
+                                    ,"Love Look":           1
+                                    ,"8bit Glasses":        1
+                                    ,"Librarian Glasses":   1
+                                    ,"Cute Look":           0
+                                    ,"Round Glasses":       1
+                                    ,"Happy Look":          0
+                                    ,"Wink Eyes":           0
+                                    ,"Dead Look":           1
+                                    ,"Awake Look":          0
+                                    ,"Cool Glasses":        1
+                                }
+    ,"interested_Mouth":        {
+                                     "Smoke":               0
+                                    ,"Snout":               0
+                                    ,"Z Teeth":             0
+                                    ,"X Snout":             0
+                                    ,"Friendly Smile":      0
+                                    ,"Happy Laugh":         0
+                                    ,"Vampire Cat":         1
+                                    ,"Tongue":              0
+                                    ,"Mustache":            1
+                                    ,"Whisker Smile":       0
+                                }
+    ,"interested_Collar":       {
+                                     "Diamond Collar":      1
+                                    ,"Cuban Chain":         1
+                                    ,"Bandana":             0
+                                    ,"Bow Tie":             0
+                                    ,"Golden Collar":       1
+                                    ,"Leather Collar":      0
+                                    ,"Hippy Collar":        1
+                                    ,"Flowers":             1
+                                    ,"Spiky Collar":        0
+                                    ,"Bitcoin Chain":       1
+                                }
+    ,"interested_Accessory":    {
+                                     "Baret":               1
+                                    ,"Ceasar":              1
+                                    ,"Crown":               1
+                                    ,"Flower":              1
+                                    ,"Bandana":             0
+                                    ,"Bow Clip":            1
+                                    ,"Hippie Feathers":     1
+                                    ,"Smooth Criminal":     1
+                                    ,"Headphones":          0
+                                    ,"Bucket Hat":          0
+                                    ,"Golden Earring":      0
+                                    ,"Halo":                1
+                                    ,"Hearts":              0
+                                }
+
+}
+
