@@ -25,7 +25,7 @@ This is a simple script to search CashCatsNFT with their traits.
 
 
 
-###### If you find it helpful, welcome to buy me a coffee as below:
+##### If you find it helpful, welcome to buy me a coffee as below:
 SmartBCH: 0x1EECcD52a48100d64Be1B9eb28Ce22ad2a5f8685
 
 
@@ -56,7 +56,7 @@ SmartBCH: 0x1EECcD52a48100d64Be1B9eb28Ce22ad2a5f8685
 
 
 
-###### 如果你觉得这个脚本有帮助，欢迎打赏：
+##### 如果你觉得这个脚本有帮助，欢迎打赏：
 SmartBCH: 0x1EECcD52a48100d64Be1B9eb28Ce22ad2a5f8685
 
 
