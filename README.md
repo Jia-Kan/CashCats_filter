@@ -3,7 +3,7 @@ This is a simple script to search CashCatsNFT with their traits.
 
 ## USAGE:
 
-1. Open and edit the file criteria.json to specify searching criteria;
+1. Edit [criteria.json](./criteria.json) to specify searching criteria;
 2. run "python search_cats.py" in command line, python3 is needed;
 3. ID of all CashCats that meet the searching criteria will be printed.
 
@@ -11,7 +11,7 @@ This is a simple script to search CashCatsNFT with their traits.
 
 ## About settings in criteria.json:
 
-- "search_range": set the searching range according to ID. The default range is [0,10000], all CashCats will be searched.
+- "search_range": set the searching range according to ID. The default range is \[0,10000\], all CashCats will be searched.
 - "alltraits": when it is 1, search CashCats that have complete six traits: Background, Body, Eyes, Mouth, Collar, and Accessory.
 - "chk_xxx": when it is 1, search CashCats according to the setting given in "interested_xxx"; when it is 0, the corresponding "interested_xxx" will take no effect.
 - "interested_xxx": specify target traits to 1 to search it. it only take effect when the corresponding "chk_xxx" is 1.
